@@ -481,6 +481,9 @@ input:focus{
     color:var(--hover-font-color)!important;
 
 }
+[data-theme=blue] li.nav-item.show .nav-link{
+    background-color: var(--header-for-create-doc-color)!important;
+}
 [data-theme=blue] .form-page .form-tabs-list a {
     color:var(--hover-font-color)!important;
 }
